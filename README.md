@@ -27,6 +27,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 		
 <br/>
 
-#### Como baixar o projeto: git clone 
+#### Como baixar o projeto: git clone https://github.com/AlanFaraj83/Projeto_Jogo_Da_Velha.git
 
 
